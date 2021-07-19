@@ -13,8 +13,14 @@
 * https://rainwise.net/weather/SMRO3
   * This site has DEP weather reports. 
   * The top drop-down menu has reports of interest to the project. 
+  * There are many stations, only a portion of them are online
   * SMRO 3-7 (those are the units that are online). Also note the location at the bottom of the page. 
+  * These were installed sometime in 2020 (that's when ME DEP started monitoring South Portland in particular)
   * To download spreadsheets, hit the button at the top of the bar that is a downward arrow.
+* Oil terminals -- all of this data is in paper form
+  * When barges come into the Portland terminal to deliver or pick up oil, they have to give DEP notice
+  * There are written notifications from boats to ME DEP -- these are faxed paper copies
+  * We hope to be be getting this data...
 
 # key people
 
@@ -23,18 +29,6 @@
 * Luke Truman (Sierra Club's Maine Chapter)
   * Luke has experience in data mapping, and working on projects with college students.
   * He has been invested in this problem of Portland/South Portland air quality for some time.
-* Link -- ME DEP weather stations
-  * located at air-sampling sites in Portland and South Portland
-  * many stations, only a portion of them are online
-  * look at numbers 3-7 (there's info on how to do that under the link in the email)
-  * these were installed sometime in 2020 (that's when ME DEP started monitoring South Portland in particular)
-* Oil terminals -- all data is in paper form
-  * from ME DEP -- not ready yet -- these are faxed paper copies
-  * When barges come into the Portland terminal to deliver or pick up oil -- they have to give DEP notice
-  * Do odor complates link up with those events
-  * Portland Pipeline -- not operating
-  * Sprague and Global
-  * Paper copies  no later than Friday (maybe Wednesday)
 
 ---
 
