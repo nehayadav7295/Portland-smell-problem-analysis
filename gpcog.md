@@ -3,7 +3,6 @@
 * Luke Truman (Sierra Club's Maine Chapter)
   * Luke has experience in data mapping, and working on projects with college students.
   * He has been invested in this problem of Portland/South Portland air quality for some time.
-
 * Excel spreadsheet -- from City of Portland -- C-click-fix app for Portland residents
   * odor reports
 * Link -- Smell my City -- has directions for accessing South Portland odor complaints
