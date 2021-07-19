@@ -2,12 +2,13 @@
 
 # data
 
-* Excel spreadsheet -- from City of Portland -- See-click-fix app for Portland residents
-  * odor reports
-  * these are collected by the city and sent monthly
+* Excel spreadsheet -- for City of Portland, Maine
+  * [SeeClickFix](https://seeclickfix.com/portland_2) app for Portland residents
+  * residents add odor reports with the app
+  * these are collected by the city and sent (to us) monthly
 * https://smellmycity.org/data
   * This site has directions for accessing South Portland odor complaints
-  * Enter zip codes of interest (Portland and South Portland have several zip codes) 
+  * Enter ZIP codes of interest (South Portland have several ZIP codes) 
   * This produces a spreadsheet for download
 * https://rainwise.net/weather/SMRO3
   * Here are the DEP weather reports. The top drop-down menu shows which ones you are looking at. They will want to use SMRO 3-7 (those are the units that are online). It should also note the location at the bottom of the page. To download spreadsheets, they need to hit the button at the top of the bar that is a downward arrow.
