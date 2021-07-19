@@ -1,5 +1,5 @@
 * Maria Guerra (Environmental Health Fellow, [Resilience Corps](https://www.gpcog.org/472/Resilience-Corps) at GPCOG)
-* Andrew Butcher (Director of Innovation & Resilience, [GPCOG](https://www.gpgoc.org))
+* Andrew Butcher (Director of Innovation & Resilience, [GPCOG](https://www.gpcog.org))
 * Luke Truman (Sierra Club's Maine Chapter)
   * Luke has experience in data mapping, and working on projects with college students.
   * He has been invested in this problem of Portland/South Portland air quality for some time.
