@@ -6,7 +6,9 @@
   * odor reports
   * these are collected by the city and sent monthly
 * https://smellmycity.org/data
-  * They'll need to adjust the first drop down to show "zip code" and then list those that are in South Portland/Portland
+  * This site has directions for accessing South Portland odor complaints
+  * Enter zip codes of interest (Portland and South Portland have several zip codes) 
+  * This produces a spreadsheet for download
 * https://rainwise.net/weather/SMRO3
   * Here are the DEP weather reports. The top drop-down menu shows which ones you are looking at. They will want to use SMRO 3-7 (those are the units that are online). It should also note the location at the bottom of the page. To download spreadsheets, they need to hit the button at the top of the bar that is a downward arrow.
 
@@ -17,9 +19,6 @@
 * Luke Truman (Sierra Club's Maine Chapter)
   * Luke has experience in data mapping, and working on projects with college students.
   * He has been invested in this problem of Portland/South Portland air quality for some time.
-* Link -- Smell my City -- has directions for accessing South Portland odor complaints
-  * enter zip codes of interest (South Portland has several zip codes) 
-  * produces a spreadsheet for download
 * Link -- ME DEP weather stations
   * located at air-sampling sites in Portland and South Portland
   * many stations, only a portion of them are online
