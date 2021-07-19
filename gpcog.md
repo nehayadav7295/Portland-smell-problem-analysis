@@ -1,15 +1,9 @@
-Maria Guera
-Andrew Butcher (abutcher@gpcog.org)
-Julia Breul (jbruel@gpcog.org)
-Luke Truman (lwtrueman@gmail.com)
-  Mr. Truman works with the Sierra Club's Maine Chapter.
-  He has experience in data mapping, including working on projects with college students,
-  and has been invested in this problem of Portland/South Portland air quality for some time.
-* [google doc](https://docs.google.com/document/d/1QNIX6DrhWkWeRIn-qqbYQhPU4nuR3XPaxbG1p5MgelQ/edit)
+* Maria Guerra (Environmental Health Fellow, [Resilience Corps](https://www.gpcog.org/472/Resilience-Corps) at GPCOG)
+* Andrew Butcher (Director of Innovation & Resilience, [GPCOG](https://www.gpgoc.org))
+* Luke Truman (Sierra Club's Maine Chapter)
+  * Luke has experience in data mapping, and working on projects with college students.
+  * He has been invested in this problem of Portland/South Portland air quality for some time.
 
--- Maria -- Zoom on 19 Jun
-
-* See Maria's 19 Jun email -- it includes an excel file
 * Excel spreadsheet -- from City of Portland -- C-click-fix app for Portland residents
   * odor reports
 * Link -- Smell my City -- has directions for accessing South Portland odor complaints
