@@ -4,6 +4,11 @@
 
 * Excel spreadsheet -- from City of Portland -- See-click-fix app for Portland residents
   * odor reports
+  * these are collected by the city and sent monthly
+* https://smellmycity.org/data
+  * They'll need to adjust the first drop down to show "zip code" and then list those that are in South Portland/Portland
+* https://rainwise.net/weather/SMRO3
+  * Here are the DEP weather reports. The top drop-down menu shows which ones you are looking at. They will want to use SMRO 3-7 (those are the units that are online). It should also note the location at the bottom of the page. To download spreadsheets, they need to hit the button at the top of the bar that is a downward arrow.
 
 # key people
 
@@ -27,16 +32,14 @@
   * Portland Pipeline -- not operating
   * Sprague and Global
   * Paper copies  no later than Friday (maybe Wednesday)
-* Reach out to Luke -- he has a lot of ideas
-  * He has extra input, etc., etc.
 
 ---
 
-Project Idea: This Stinks
+## Project Idea: This Stinks
 
 Problem: Residents of Portland and South Portland have been reporting disruptive smells in the air on certain days of the year. The cities use different platforms to report and respond to the problem: a local 311 app, and a popular crowdsourcing app used across the nation. It's been unclear what the source of the smells might be and difficult to understand the extent of the issue on both sides of the Fore River.
 
-* Project goals.
+### Project goals.
 
 * Coordinate the various data sources
 * Clean the data and make it easily accessible for the general public
