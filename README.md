@@ -11,7 +11,10 @@
   * Enter ZIP codes of interest (South Portland have several ZIP codes) 
   * This produces a spreadsheet for download
 * https://rainwise.net/weather/SMRO3
-  * Here are the DEP weather reports. The top drop-down menu shows which ones you are looking at. They will want to use SMRO 3-7 (those are the units that are online). It should also note the location at the bottom of the page. To download spreadsheets, they need to hit the button at the top of the bar that is a downward arrow.
+  * This site has DEP weather reports. 
+  * The top drop-down menu shows which reports of interest to the project. 
+  * SMRO 3-7 (those are the units that are online). Also note the location at the bottom of the page. 
+  * To download spreadsheets, hit the button at the top of the bar that is a downward arrow.
 
 # key people
 
