@@ -10,8 +10,10 @@ Problem: Residents of Portland and South Portland have been reporting disruptive
 * Clean the data and make it easily accessible for the general public
 * Create some simple visualizations
 * Add additional data from ME DEP (e.g., wind speed, direction, temperature, etc)
-· Project partners
-* The Greater Portland Council of Governments
+
+### Project partners
+
+* The Greater Portland Council of Governments (GPCOG)
 * The Sierra Club
 
 # data
