@@ -1,5 +1,19 @@
 # stinky
 
+## Project Idea: This Stinks
+
+Problem: Residents of Portland and South Portland have been reporting disruptive smells in the air on certain days of the year. The cities use different platforms to report and respond to the problem: a local 311 app, and a popular crowdsourcing app used across the nation. It's been unclear what the source of the smells might be and difficult to understand the extent of the issue on both sides of the Fore River.
+
+### Project goals.
+
+* Coordinate the various data sources
+* Clean the data and make it easily accessible for the general public
+* Create some simple visualizations
+* Add additional data from ME DEP (e.g., wind speed, direction, temperature, etc)
+· Project partners
+* The Greater Portland Council of Governments
+* The Sierra Club
+
 # data
 
 * Excel spreadsheet -- for City of Portland, Maine
@@ -29,21 +43,3 @@
 * Luke Truman (Sierra Club's Maine Chapter)
   * Luke has experience in data mapping, and working on projects with college students.
   * He has been invested in this problem of Portland/South Portland air quality for some time.
-
----
-
-## Project Idea: This Stinks
-
-Problem: Residents of Portland and South Portland have been reporting disruptive smells in the air on certain days of the year. The cities use different platforms to report and respond to the problem: a local 311 app, and a popular crowdsourcing app used across the nation. It's been unclear what the source of the smells might be and difficult to understand the extent of the issue on both sides of the Fore River.
-
-### Project goals.
-
-* Coordinate the various data sources
-* Clean the data and make it easily accessible for the general public
-* Create some simple visualizations
-* Add additional data from ME DEP (e.g., wind speed, direction, temperature, etc)
-· Project partners
-* The Greater Portland Council of Governments
-* The Sierra Club
-
----
