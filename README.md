@@ -2,7 +2,7 @@
 
 ## Project Idea: This Stinks
 
-Problem: Residents of Portland and South Portland (Maine) have been reporting disruptive smells in the air on certain days of the year. The cities use different platforms to report and respond to the problem: a local 311 app, and a popular crowdsourcing app used across the nation. It's been unclear what the source of the smells might be and difficult to understand the extent of the issue on both sides of the Fore River.
+Problem: Residents of Portland and South Portland, Maine, have been reporting disruptive smells in the air on certain days of the year. The cities use different platforms to report and respond to the problem: a local 311 app, and a popular crowdsourcing app used across the nation. It's been unclear what the source of the smells might be and difficult to understand the extent of the issue on both sides of the Fore River.
 
 ### Project goals.
 
