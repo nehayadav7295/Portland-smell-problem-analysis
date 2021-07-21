@@ -12,6 +12,6 @@
 * Geographical concentration of the odor
 
 # About SCF Odor Report (xlsx file in github)
-* Does this come from the Sierra Club?
-* Is the data source different from the smellmycity data?
-* Date range: 7/1/2020 - 6/2/2021. Is this the full date range? Will we get updated data?
+* Does this come from the SeeClickFix app?
+* Is it possible to download data directly from the app?
+* If not, does the xlsx file include all available data? Date range in file is 7/1/2020 - 6/2/2021.
